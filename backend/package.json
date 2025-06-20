@@ -1,0 +1,20 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat App with Rust backend",
+  "homepage": "https://github.com/Snacj/Rusty-Chat-App#readme",
+  "bugs": {
+    "url": "https://github.com/Snacj/Rusty-Chat-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snacj/Rusty-Chat-App.git"
+  },
+  "license": "ISC",
+  "author": "Snacj",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
